@@ -1,19 +1,29 @@
-### Hi there 👋
+# William  Wassmann 
+[![William's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wmwassmannn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**wmwassmann/wmwassmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Summary
 
-[![William Wassmann's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmwassmann](https://github.com/anuraghazra/github-readme-stats)
+test
 
 
-Here are some ideas to get you started:
+### Tech Stack
+| Front-End            | Back-End             |
+| -------------------- | :------------------- |
+| JavaScript & jQuery  | Node.js              |
+| HTML                 | Git                  |
+| CSS                  | Express              |
+| React                | Heroku               |
+| AJAX & API           | Mongoose & IndexedDB |
+| Handlebars           | MySQL/Sequelize      |
+| Foundation Framework | MongoDB              |
+| Bootstrap Framework  | Webpack              |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### About Me
+test
+
+### GitHub Stats
+
+[![William's github stats](https://github-readme-stats.vercel.app/api?username=wmwassmann&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+*[Stats Cards generated using Anuraghazra's README Stats Generator](https://github.com/anuraghazra/github-readme-stats)*
