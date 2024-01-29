@@ -3,7 +3,9 @@
 
 ### Summary
 
-Open for work, searching for an entry level position to contribute skills learned during The University of Washington's Coding Bootcamp and to pick up more along the way. Collaboration, communication, and problem solving with flexibility to meet the companies needs. 
+My personal GitHub - which has only recently seen a resurgence in productive commits. I used my company GitHub while at BillGO and most of my projects were company owned side projects. 
+
+Open for work, searching for an mid level position to contribute skills learned during my two years at BillGO, Inc, and The University of Washington's Coding Bootcamp. Collaboration, communication, and problem solving with flexibility to meet the companies needs. 
 
 
 ### Tech Stack
