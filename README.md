@@ -15,15 +15,14 @@ Open for work, searching for an mid level position to contribute skills learned 
 | -------------------- | :------------------- |
 | React                | Node.js              |
 | JavaScript           | Git                  |
-| HTML                 | Express              |
+| C#                   | Express              | 
+| HTML                 | MySQL & Sequelize    |
 | CSS                  | Heroku               |
 | jQuery               | Mongoose & IndexedDB |
 | AJAX                 | MongoDB              |
-| Foundation Framework | MySQL & Sequelize    |
+| Foundation Framework | Socket.io            |           
 | Bootstrap Framework  | Webpack              |
-| Handlebars           | Socket.io            |
-|                      | Postman              |
-|                      | Firebase             |
+| Handlebars           |                      |
 
 
 
